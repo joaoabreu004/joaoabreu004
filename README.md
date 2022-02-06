@@ -1,6 +1,6 @@
  Opa! Me chamo João Vitor de Abreu Sousa ✌
 
-- 🔭 Gosto muito de front-end porém JAVA e C# me estimulam a aprender Back-end...
+- 🔭 Gosto muito de Front-end porém JAVA e C# me estimulam a aprender Back-end...
 - 🌱 Estudando: Javascript e JAVA 
 - 😄 Pronome: ele/dele
 
