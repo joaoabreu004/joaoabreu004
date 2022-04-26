@@ -2,7 +2,6 @@
 
 - 🔭 Gosto muito de Front-end porém JAVA e C# me estimulam a aprender Back-end...
 - 🌱 Estudando: Javascript 
-- 
 - 😄 Pronome: ele/dele
 
 <div align="center">
