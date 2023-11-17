@@ -2,7 +2,9 @@
 
 
 Estudando **Java e Python**.
+
 **Apaixonado** por tecnologia e desafios.
+
 Acredito que a tecnologia pode melhorar o mundo.
 
 <div align="center">
