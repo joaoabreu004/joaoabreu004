@@ -1,8 +1,8 @@
- Olá! Me chamo João Vitor de Abreu Sousa ✌
-
-- 🔭 Gosto muito de Front-end porém JAVA e Python me estimulam a aprender Back-end...
-- 🌱 Estudando: Javascript 
-- 😄 Pronome: ele/dele
+Olá!
+Meu nome é João Vitor de Abreu Sousa, sou desenvolvedor de software com foco em front-end. Atualmente, estou estudando JavaScript, mas também tenho interesse em aprender back-end com Java e Python.
+Sou apaixonado por tecnologia e sempre estou buscando aprender coisas novas. Gosto de desafios e de trabalhar em projetos que tenham impacto positivo na vida das pessoas.
+Acredito que a tecnologia pode ser usada para melhorar o mundo e estou comprometido a usar minhas habilidades para fazer a diferença.
+Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/joaoabreu004">
