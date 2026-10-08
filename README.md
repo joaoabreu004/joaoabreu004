@@ -1,36 +1,48 @@
+# Olá, eu sou o João Abreu! 👋
 
+**Desenvolvimento de Software | Java • Python • SQL | Backend, APIs e Dados**
 
+Sou estudante de Engenharia de Software e técnico em Desenvolvimento de Sistemas. Gosto de criar soluções para problemas reais e aprender construindo projetos.
 
-Estudando **Java e Python**.
+- 💻 Interesse em desenvolvimento backend, integrações e dados.
+- 📚 Evoluindo em Java, Python, SQL, APIs e testes.
+- 🎯 Buscando oportunidades júnior em Engenharia de Software e Dados.
+- 📍 São Paulo, Brasil.
 
-**Apaixonado** por tecnologia e desafios.
+## 🛠️ Tecnologias
 
-Acredito que a tecnologia pode melhorar o mundo.
+**Backend e programação:** Java, Python, JavaScript, TypeScript, Kotlin  
+**Dados:** SQL, Pandas e análise exploratória  
+**Web:** HTML, CSS e React  
+**Ferramentas:** Git, GitHub e APIs REST
+
+## 🚀 Projetos em destaque
+
+### [Análise da Frota Brasileira — SENATRAN](https://github.com/joaoabreu004/analise-frota-senatran)
+Projeto de estudo em dados públicos da frota brasileira, com propostas documentadas de ETL, análise exploratória e machine learning. **Tecnologias:** Python e SQL.
+
+### [Projetos de dados](https://github.com/joaoabreu004/joao_dados-Vercel)
+Repositório para acompanhar trabalhos relacionados à área de dados.
+
+### [Jabez Vision Finance](https://github.com/joaoabreu004/JabezVisionFinance)
+Projeto disponível no meu portfólio. Consulte o repositório para conhecer a implementação.
+
+## 📊 Estatísticas
 
 <div align="center">
-  <a href="https://github.com/joaoabreu004">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoabreu004&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoabreu004&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=joaoabreu004&show_icons=true&theme=github_dark&include_all_commits=true" />
+  <img height="170" alt="Linguagens utilizadas nos repositórios" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoabreu004&layout=compact&langs_count=8&theme=github_dark" />
 </div>
 
-  <div style="display: inline_block"><br> 
-  <img align="center" alt="jv-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="jv-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="jv-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="jv-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="jv-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt"jv-TypeScript" height="30 width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt"jv-SASS" height="30 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt"jv-Mysql" height="30 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt"jv-Mysql" height="30 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+### 🐍 Contribuições em movimento
+
+<div align="center">
+  <img alt="Animação da cobrinha no gráfico de contribuições" src="https://raw.githubusercontent.com/joaoabreu004/joaoabreu004/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
- ##
- 
-<div>
-  <a href = "mailto:jvabreusousa12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-de-abreu-sousa-900791196" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+_A animação aparecerá após a primeira execução bem-sucedida do workflow no GitHub Actions._
 
-   
-</div>   
- 
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-de-abreu-sousa-900791196)
+[![E-mail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jvabreusousa14@gmail.com)
